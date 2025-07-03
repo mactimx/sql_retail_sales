@@ -248,11 +248,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## 🙌 Acknowledgments
 Big thanks to [ZeroAnalyst](https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/commits?author=najirh), open-source community and data practitioners whose shared knowledge inspired this project. This project was created as part of my data analytics learning journey. 
 
-Let me know if you want a LICENSE, CONTRIBUTING.md, badges, or query file links included too! Happy to polish it up even more. ✨
-
-
 ## Author - Timothy Ukeje
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 Thank you for your support, and I look forward to connecting with you!
+Email: mactimx@gmail.com
